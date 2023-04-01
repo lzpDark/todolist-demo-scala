@@ -1,0 +1,8 @@
+{
+    "type": "scala",
+    "request": "launch",
+    "name": "Debug Main",
+    "mainClass": "Main",
+    "args": [],
+    "jvmOptions": []
+}

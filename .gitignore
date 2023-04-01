@@ -1,0 +1,9 @@
+/.bsp/
+.bsp/
+.bloop/
+.metals/
+project/.bloop/
+project/project/
+project/target/
+target/
+todolist.jar
